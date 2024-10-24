@@ -1,7 +1,7 @@
 # Weather App
 
-## Simple weather display powered by the **OpenWeather** API
+Simple weather display powered by the **OpenWeather** API ---
 
-## All weather data gathered from [OpenWeather API](https://openweathermap.org)
+All weather data gathered from [OpenWeather API](https://openweathermap.org)
 
 ![A](images/clear.png)
