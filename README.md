@@ -1,4 +1,4 @@
-# Weather App ([link](https://qpcic.github.io/Weather-App/))
+# Qpcic Weather ([link](https://qpcic.github.io/Weather-App/))
 
 Simple weather display powered by the **OpenWeather** API
 
