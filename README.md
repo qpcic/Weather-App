@@ -4,4 +4,4 @@
 
 ## All weather data gathered from [OpenWeather API](https://openweathermap.org)
 
-![images/clear.png]
+![A](images/clear.png)
