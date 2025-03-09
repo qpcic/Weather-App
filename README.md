@@ -1,4 +1,4 @@
-# Qpcic Weather ([link](https://qpcic.github.io/Weather-App/))
+# Kupa Weather ([link](https://qpcic.github.io/Weather-App/))
 
 Simple weather display powered by the **OpenWeather** API
 
